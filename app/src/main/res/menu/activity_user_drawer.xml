@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_beranda"
+            android:title="Beranda"/>
+        <item
+            android:id="@+id/nav_publis_komoditi"
+            android:title="Publis Komonditi" />
+
+        <item
+            android:id="@+id/nav_penawaran"
+            android:title="Pesan Masuk" />
+
+        <item
+            android:id="@+id/nav_pesanan"
+            android:title="Penawaran Barang" />
+
+        <item
+            android:id="@+id/nav_penjualan"
+            android:title="List Penjualan" />
+        <item
+            android:id="@+id/nav_setting"
+            android:title="Setting Akun"/>
+        <item
+            android:id="@+id/nav_keluar"
+            android:title="Keluar" />
+    </group>
+
+
+
+</menu>

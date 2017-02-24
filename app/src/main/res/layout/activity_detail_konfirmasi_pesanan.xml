@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="#2683c2"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/activity_detail_pemesanan"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+
+        tools:context="com.example.fujimiya.farmartrevisi.DetailPemesananActivity">
+
+
+        <TextView
+            android:id="@+id/txttitel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Detail Pemesan"
+            android:textSize="25dip"
+            android:textColor="#f8f9fa"
+            android:layout_centerHorizontal="true"
+            android:textStyle="bold"/>
+
+        <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/cardlist_item"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="5dp"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:orientation="vertical"
+            card_view:cardCornerRadius="10dp"
+            card_view:cardElevation="@dimen/cardview_default_elevation">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:orientation="vertical"
+                    android:paddingBottom="8dp"
+                    android:paddingLeft="@dimen/activity_horizontal_margin"
+                    android:paddingRight="@dimen/activity_horizontal_margin"
+                    android:paddingTop="8dp">
+
+                    <LinearLayout
+
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:paddingLeft="@dimen/activity_horizontal_margin">
+
+                        <TextView
+                            android:id="@+id/nama"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Pemesanan Anda berhasil diproses, silakan kirim bukti bayar"
+                            android:textStyle="bold"
+                            android:textColor="@color/primary_text_default_material_light"
+                            android:textSize="23sp" />
+
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="20dp"
+                        android:orientation="vertical">
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:paddingLeft="@dimen/activity_horizontal_margin">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Komoditas   : "
+                                android:textColor="@color/primary_text_default_material_light"
+                                android:textSize="20sp" />
+
+                            <TextView
+                                android:id="@+id/txtKomoditas"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingTop="3dp"
+                                android:text="-"
+                                android:textColor="@color/primary_text_default_material_light"
+                                android:textSize="20sp" />
+                        </LinearLayout>
+
+
+
+                        <LinearLayout
+                            android:layout_marginTop="1dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:paddingLeft="@dimen/activity_horizontal_margin">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Jumlah         : "
+                                android:textColor="@color/primary_text_default_material_light"
+                                android:textSize="20sp" />
+
+                            <TextView
+                                android:id="@+id/txtjumlah"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingTop="3dp"
+                                android:text="-"
+                                android:textColor="@color/primary_text_default_material_light"
+                                android:textSize="20sp" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_marginTop="1dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:paddingLeft="@dimen/activity_horizontal_margin">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="Total Bayar  : "
+                                android:textColor="@color/primary_text_default_material_light"
+                                android:textSize="20sp" />
+
+                            <TextView
+                                android:id="@+id/txttotal"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingTop="3dp"
+                                android:text="-"
+                                android:textColor="@color/primary_text_default_material_light"
+                                android:textSize="20sp" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_marginTop="10dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:paddingLeft="@dimen/activity_horizontal_margin">
+
+                            <TextView
+                                android:id="@+id/txttanggal"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingTop="3dp"
+                                android:text="On  2017 01 02"
+                                android:textColor="@color/primary_text_default_material_light"
+                                android:textSize="14sp"
+                                android:textStyle="italic"/>
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_marginTop="10dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:paddingLeft="@dimen/activity_horizontal_margin">
+
+                           <ImageView
+                               android:layout_width="100dp"
+                               android:layout_height="100dp" />
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+                </LinearLayout>
+
+            </RelativeLayout>
+
+        </android.support.v7.widget.CardView>
+
+        <LinearLayout
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="5dp"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="@drawable/linearlayout_bg"
+            android:padding="10dp"
+            android:id="@+id/linearLayout"
+            android:layout_below="@id/cardlist_item">
+
+            <Button
+                android:id="@+id/btnBrowse"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:layout_margin="10dp"
+                android:text="Browse"
+                android:textColor="@color/primary_text_default_material_light"
+                android:background="@drawable/button_default_bg"
+                style="@style/DefaultButtonText"
+                android:onClick="Browse"/>
+
+            <Button
+                android:id="@+id/btnKirim"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:layout_margin="10dp"
+                android:text="Publish"
+                android:textColor="@color/primary_text_default_material_light"
+                android:background="@drawable/button_default_bg"
+                style="@style/DefaultButtonText"
+                android:onClick="Kirim"
+                android:enabled="false"
+                />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+</ScrollView>

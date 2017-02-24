@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a0381cd1b50ae1c1df128bae32f4775faeb394f4">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ba031ad744921619744918ddd0e811387298db26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_5539d8d455ebb8eef77268a27f0665e7a8b5048d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_430aafa69d88a5cec66c136c173c0131d9738d51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_0b5952e41e773ae08ca4f4c33ef5c4d70d0256ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_7bd79760d51652d5801ea3a2f9c63d9ff5ab47a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Glory\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.2.2_60cec0b84729b2841cac0583d3daaa809b8f06db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_84ed4c6c1ef0000966c6da753b405c0b3b79c5c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_32d2af18c6abf5d5adc041538c684238a9c4a801\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_dc895ad916ef877aed56db40fd8f856fe41d682f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_ba9789c0d37d25b9ab5e277218dff45fcecec241\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_bf7c368bdb67af9532bb3f5b3f13b6b434020e25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_35a097368ff22c23133bb569057780b012a1f532\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Glory\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.11\d37cb67277928cf59344b4196af8d9cee1f1a27c\tubesock-0.0.11.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\tubesock-0.0.11_7f1684a281803872bb9aa1edaace5d7869ef1856\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_3bf06d7652f123e9261657cf93a25c40152d556d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_e8ea66f8632186778790776b5788d22700f3dfae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Glory\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.2.2_da023c87455082234e47a78143fd85d25640af78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Glory\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.3.1\4d53b7d6983247af02b8fe7e4228fff555a5e828\firebase-client-jvm-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-jvm-2.3.1_6769561b1c707f5d48f3c7fb2b13cb888a7b6258\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_fc4fea56f88b004eeb2a64cae6738f9b54007171\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_bc4648b8bdfbc7009d4b548cd2aff7d0675cdec5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Glory\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_41994f894d6f6555d183f418e5dc1c288620808e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_3888f2f7eff877bd2a06cf4a3d3e6f156f85e1c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Glory\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.2.2_779b876bea6aba5b368dcfaf56cb4c1d27347f0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_29fe95e20d9d5ace34f53b6265839fcd29c97fb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_ea92166cc44b3b38357604ac0a01d6281209f534\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.1_3ff465ad174613bb8758611b101806f3e995f26e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_08d439c48b84e7c41de073cfd328aa6f742c5953\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_4fc69e4d61118ff21042e90721b3e3b0c5b51000\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_4b790702b1b633abc58c7363930558c3814a80b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_72ea0cb3fddfd84a5f009681f8199f248999af9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_c677a09441cd88bfd5d27d1d8c0447156e67b08b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_fc3c3dd5536b298b815a593047f42f5c62238e28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_66716656d15dc7c273198961c751f2c06863d5e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-1.3.0_43a97c2ada9443129802767bf7353cbe8bc472e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be5f8d6780917cc32d5f83fa2fa94460323ea84f">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_46d4d148cdfda59c756947234add0a2aae00bbe2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_2aaccdbdf057325c64bf8af16958c2b4be4ddc19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.1.1_1a08e1ca905f5d2670c671cb35b7924d467faf7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.1_4cb4b521b0e2faa06126dac1300ec1f9872a650b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Glory\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.3.1\be29b24233711c419ce935aa0a1b12ebc49d1c9a\firebase-client-android-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be29b24233711c419ce935aa0a1b12ebc49d1c9a">
+        <dex dex="E:\Data Kuliah\project\Farmmart\Famart.03-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-android-2.3.1_845335dda58c2c745afad8974274bfca43a26d35\classes.dex" />
+    </item>
+
+</items>

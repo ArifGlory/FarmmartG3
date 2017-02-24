@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/beranda"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Beranda" />
+        <item
+            android:id="@+id/terdekat"
+            android:icon="@drawable/ic_my_location_black_24dp"
+            android:title="Komoditi Terdekat" />
+
+        <item
+            android:id="@+id/konfirPesanan"
+            android:title="Konfirmasi Pemesanan" />
+
+        <item
+            android:id="@+id/keluar_customer"
+            android:title="Keluar" />
+
+    </group>
+
+
+</menu>

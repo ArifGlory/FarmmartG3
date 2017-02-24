@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "669715401919",
+    "firebase_url": "https://farmartcorp.firebaseio.com",
+    "project_id": "farmartcorp",
+    "storage_bucket": "farmartcorp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669715401919:android:273f7aa4ebf1e079",
+        "android_client_info": {
+          "package_name": "com.example.fujimiya.farmartrevisi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669715401919-5niju4qmailk9gpfn0ds99sqlvnapnoa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fujimiya.farmartrevisi",
+            "certificate_hash": "566AC18EB30BD2D6CF687849C6439E8105665571"
+          }
+        },
+        {
+          "client_id": "669715401919-hs7sq14ttpedl8miluvvhhr8h22rr52d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD51KFmZzoTKIimD2XJcK13wKq4j3t1m1s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669715401919-hs7sq14ttpedl8miluvvhhr8h22rr52d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

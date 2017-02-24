@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_list"
+            android:title="Data User" />
+        <item
+            android:id="@+id/nav_pendaftaran"
+            android:title="Daftar Pendaftaran" />
+        <item
+            android:id="@+id/nav_penjualan"
+            android:title="Verifikasi Penjualan" />
+        <item
+            android:id="@+id/nav_pesananTerima"
+            android:title="Pesanan Diterima" />
+
+        <item
+            android:id="@+id/nav_setting"
+            android:title="Setting akun" />
+        <item
+            android:id="@+id/nav_keluar"
+            android:title="Keluar" />
+
+    </group>
+
+</menu>
