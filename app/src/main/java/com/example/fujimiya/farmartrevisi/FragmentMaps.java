@@ -57,7 +57,7 @@ public class FragmentMaps extends Fragment implements OnMapReadyCallback {
         View view = inflater.inflate(R.layout.fragment_fragment_maps, container, false);
         Firebase.setAndroidContext(this.getActivity());
         ref = new Firebase("https://farmartcorp.firebaseio.com/anggota");
-        Gcari = (AutoCompleteTextView) view.findViewById(R.id.autoCompleteTextCari);
+        //Gcari = (AutoCompleteTextView) view.findViewById(R.id.autoCompleteTextCari);
         final FragmentManager manager = getFragmentManager();
         FragmentTransaction transaction = manager.beginTransaction();
         SupportMapFragment fragment = new SupportMapFragment();
@@ -87,13 +87,6 @@ public class FragmentMaps extends Fragment implements OnMapReadyCallback {
         mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(lampung, 17));
 
         ambil();
-        Gcari.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            @Override
-            public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-                Toast.makeText(getActivity().getApplication(), Gcari.getText(), Toast.LENGTH_LONG).show();
-               //cari_komoditi();
-            }
-        });
 
 
        mMap.setOnInfoWindowClickListener(new GoogleMap.OnInfoWindowClickListener() {
@@ -154,7 +147,7 @@ public class FragmentMaps extends Fragment implements OnMapReadyCallback {
                             LatLng FlKomoditi = new LatLng(latt, lonn);
                             //Toast.makeText(getActivity().getApplication(),""+FlKomoditi ,Toast.LENGTH_LONG).show();
 
-                            mMap.addMarker(new MarkerOptions().position(FlKomoditi).title(username)).setSnippet(key);
+                            mMap.addMarker(new MarkerOptions().position(FlKomoditi).title(username));
                             mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(FlKomoditi, 17));
                         }
 
@@ -195,7 +188,7 @@ public class FragmentMaps extends Fragment implements OnMapReadyCallback {
                         LatLng FlKomoditi = new LatLng(latt, lonn);
 
                         mMap.addMarker(new MarkerOptions().position(FlKomoditi).title("\rPetani      : " + nama + "\n\r" + "Komoditi : " + komoditi + "\n\r" +
-                                "Email    : " + mail).snippet(key));
+                                "Email    : " + mail));
 
                         mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(FlKomoditi, 17));
 

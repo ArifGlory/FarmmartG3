@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">FarmartRevisi</string>
+    <string name="app_name">Farmart</string>
 
     <style name="DefaultButtonText">
         <item name="android:layout_width">fill_parent</item>

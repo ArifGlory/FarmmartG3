@@ -40,11 +40,11 @@ public class DetailPemesananActivity extends AppCompatActivity {
         GrefTerima = new Firebase("https://farmartcorp.firebaseio.com/pesananterima/");
 
         txtCustomer = (TextView) findViewById(R.id.nama);
-        txtMode = (TextView) findViewById(R.id.txtmode);
         txtJumlah = (TextView) findViewById(R.id.txtjumlah);
         txtTotal = (TextView) findViewById(R.id.txttotal);
         txtTanggal = (TextView) findViewById(R.id.txttanggal);
         txtKomoditas = (TextView) findViewById(R.id.txtKomoditas);
+        txtMode = (TextView) findViewById(R.id.txtmode);
         String url = Gref.toString();
 
         txtCustomer.setText(nm);

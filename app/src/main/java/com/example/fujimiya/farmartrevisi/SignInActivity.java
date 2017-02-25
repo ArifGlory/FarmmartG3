@@ -70,7 +70,7 @@ public class SignInActivity extends AppCompatActivity {
                             startActivity(i);
                             System.exit(0);
                         }
-                        if (child.child("username").getValue().toString().equals(Fusername.getText().toString()) && child.child("password").getValue().toString().equals(Fpassword.getText().toString()) && child.child("status").getValue().toString().equals("User")) {
+                        if (child.child("email").getValue().toString().equals(Fusername.getText().toString()) && child.child("password").getValue().toString().equals(Fpassword.getText().toString()) && child.child("status").getValue().toString().equals("User")) {
                             //Toast.makeText(getApplicationContext(), "Anda berhasil login " + nama, Toast.LENGTH_LONG).show();
                             finish();
                             Intent i = new Intent(SignInActivity.this, UserActivity.class);
@@ -82,7 +82,7 @@ public class SignInActivity extends AppCompatActivity {
                             startActivity(i);
                             System.exit(0);
                         }
-                        if (child.child("username").getValue().toString().equals(Fusername.getText().toString()) && child.child("password").getValue().toString().equals(Fpassword.getText().toString()) && child.child("status").getValue().toString().equals("Customer")) {
+                        if (child.child("email").getValue().toString().equals(Fusername.getText().toString()) && child.child("password").getValue().toString().equals(Fpassword.getText().toString()) && child.child("status").getValue().toString().equals("Customer")) {
                             //Toast.makeText(getApplicationContext(), "Anda berhasil login " + nama, Toast.LENGTH_LONG).show();
                             finish();
                             Intent i = new Intent(SignInActivity.this, CustomerDrawer.class);

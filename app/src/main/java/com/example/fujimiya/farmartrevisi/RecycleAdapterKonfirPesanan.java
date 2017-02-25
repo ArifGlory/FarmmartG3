@@ -140,7 +140,7 @@ public class RecycleAdapterKonfirPesanan extends RecyclerView.Adapter<RecycleVie
             RecycleViewHolderKonfirPesanan vHolder = (RecycleViewHolderKonfirPesanan) v.getTag();
             int position = vHolder.getPosition();
             //Toast.makeText(context.getApplicationContext(), "Kunci Cusnya : "+Glist_dari_keyCus.get(position).toString(), Toast.LENGTH_SHORT).show();
-           /* i = new Intent(v.getContext(),DetailPemesananActivity.class);
+            i = new Intent(v.getContext(),DetailKonfirmasiPesananActivity.class);
             i.putExtra("kunciCus",Glist_dari_keyCus.get(position).toString());
             i.putExtra("namaCus",Glist_dari_namaCus.get(position).toString());
             i.putExtra("hargaCus",Glist_dari_hargaCus.get(position).toString());
@@ -149,7 +149,7 @@ public class RecycleAdapterKonfirPesanan extends RecyclerView.Adapter<RecycleVie
             i.putExtra("modeCus",Glist_dari_modeCus.get(position).toString());
             i.putExtra("timeCus",Glist_dari_tanggalCus.get(position).toString());
             i.putExtra("totalCus",Glist_dari_totalCus.get(position).toString());
-            context.startActivity(i);*/
+            context.startActivity(i);
 
 
 

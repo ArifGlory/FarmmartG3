@@ -12,8 +12,12 @@
             android:id="@+id/nav_penjualan"
             android:title="Verifikasi Penjualan" />
         <item
-            android:id="@+id/nav_pesananTerima"
-            android:title="Pesanan Diterima" />
+        android:id="@+id/nav_pesananTerima"
+        android:title="Pesanan Diterima" />
+
+        <item
+            android:id="@+id/nav_buktiBayar"
+            android:title="Bukti Pembayaran" />
 
         <item
             android:id="@+id/nav_setting"

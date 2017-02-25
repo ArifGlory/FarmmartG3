@@ -61,7 +61,7 @@
                         android:paddingLeft="@dimen/activity_horizontal_margin">
 
                         <TextView
-                            android:id="@+id/nama"
+                            android:id="@+id/jdl"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="Pemesanan Anda berhasil diproses, silakan kirim bukti bayar"
@@ -176,11 +176,13 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:orientation="horizontal"
+                            android:layout_gravity="center"
                             android:paddingLeft="@dimen/activity_horizontal_margin">
 
                            <ImageView
-                               android:layout_width="100dp"
-                               android:layout_height="100dp" />
+                               android:layout_width="250dp"
+                               android:layout_height="200dp"
+                               android:id="@+id/imgUpload"/>
 
                         </LinearLayout>
 
@@ -226,7 +228,6 @@
                 android:textColor="@color/primary_text_default_material_light"
                 android:background="@drawable/button_default_bg"
                 style="@style/DefaultButtonText"
-                android:onClick="Kirim"
                 android:enabled="false"
                 />
 

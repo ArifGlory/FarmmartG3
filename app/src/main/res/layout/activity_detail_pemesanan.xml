@@ -241,7 +241,7 @@
             android:padding="10dp"
             android:textColor="@color/primary_text_default_material_light"
             android:layout_margin="10dp"
-            android:text="Abaikan"
+            android:text="Hapus"
             style="@style/DefaultButtonText"
             android:background="@drawable/button_default_bg"
             android:onClick="Abaikan"

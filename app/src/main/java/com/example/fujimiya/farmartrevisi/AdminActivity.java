@@ -126,6 +126,14 @@ public class AdminActivity extends AppCompatActivity
             android.support.v4.app.FragmentTransaction fragmentTransaction = getSupportFragmentManager().beginTransaction();
             fragmentTransaction.replace(R.id.fragmen_maps,listPesananTerimaFragment);
             fragmentTransaction.commit();
+        }else if (id == R.id.nav_buktiBayar){
+            ListBuktiBayarFragment listBuktiBayarFragment= new ListBuktiBayarFragment();
+            android.support.v4.app.FragmentTransaction fragmentTransaction = getSupportFragmentManager().beginTransaction();
+            fragmentTransaction.replace(R.id.fragmen_maps,listBuktiBayarFragment);
+            fragmentTransaction.commit();
+
+
+
         }
 
 

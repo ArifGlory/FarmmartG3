@@ -76,6 +76,9 @@
         <activity
             android:name=".DetailPemesananActivity"
             android:label="Detail Pesanan" />
+        <activity
+            android:name=".BeliActivity"
+            android:label="Beli" />
         <activity android:name=".DetailPesananTerimaActivity" />
         <activity android:name=".DetailKonfirmasiPesananActivity"></activity>
     </application>
